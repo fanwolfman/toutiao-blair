@@ -11,7 +11,6 @@
 * description
 */
 
-
 export default {
   name: '',
   data () {

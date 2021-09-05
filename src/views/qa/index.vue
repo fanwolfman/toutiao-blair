@@ -11,7 +11,6 @@
 * description
 */
 
-
 export default {
   name: 'QaIndex',
   data () {
@@ -23,7 +22,7 @@ export default {
   props: {},
   computed: {},
   watch: {},
-  created() {},
+  created () {},
   methods: {
   }
 }

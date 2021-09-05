@@ -8,9 +8,9 @@ const request = axios.create({
   baseURL: 'http://ttapi.reaseach.itcast.cn'
 })
 
-//请求拦截器
+// 请求拦截器
 
-//响应拦截器
+// 响应拦截器
 
-//导出
+// 导出
 export default request

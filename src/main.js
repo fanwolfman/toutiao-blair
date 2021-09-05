@@ -6,7 +6,7 @@ import Vant from 'vant'
 import 'vant/lib/index.css'
 import router from './router'
 import store from './store'
-import './styles/icon.less'
+import './styles/index.less'
 import './rem.js'
 // 自动设置rem基准值
 // import 'amfe-flexible'

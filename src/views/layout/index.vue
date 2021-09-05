@@ -32,7 +32,7 @@ export default {
   props: {},
   computed: {},
   watch: {},
-  created() {},
+  created () {},
   methods: {
   }
 }
